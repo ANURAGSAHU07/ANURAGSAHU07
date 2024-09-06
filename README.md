@@ -1,8 +1,14 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm ANURAG SAHU</h1>
-- 🔭 I’m currently working on [StockLlama](https://github.com/ANURAGSAHU07/Stock-MHETA)
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+# Hey there :wave: I'm ANURAG SAHU
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ANURAGSAHU07/count.svg" />
+</p>
+
+
 - 🌱 I’m currently learning **Deep learning and Gen-Ai**
 - 💬 Ask me about **requirements.txt for life 😉**
+- 🔭 I’m currently working on [StockLlama](https://github.com/ANURAGSAHU07/Stock-MHETA)
 - 📫 How to reach me **anuragsahu4328@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/anurag-sahu07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
