@@ -1,5 +1,7 @@
+
+## Hey there :wave: I'm ANURAG SAHU
+
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-# Hey there :wave: I'm ANURAG SAHU
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ANURAGSAHU07/count.svg" />
