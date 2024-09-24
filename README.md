@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Deep learning and Gen-Ai**
 - 💬 Ask me about **requirements.txt for life 😉**
-- 🔭 I’m currently working on [StockLlama](https://github.com/ANURAGSAHU07/Stock-MHETA)
+- 🔭 I’m currently working on Making An AI Powered Notes For Android and Windows .
 - 📫 How to reach me **anuragsahu4328@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/anurag-sahu07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
